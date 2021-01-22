@@ -1,0 +1,18 @@
+*.[oa]
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+ticgit
+blink
+### simplegit-progit
+simplegit-progit
